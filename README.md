@@ -5,4 +5,4 @@ Beware that this script will replace your current sys.config
 
 ### Apply command
 
-    sudo wget https://raw.githubusercontent.com/gompydo/PiscesDisableChainSync/apply.sh -O - | sudo bash
+    sudo wget https://raw.githubusercontent.com/gompydo/PiscesDisableChainSync/main/apply.sh -O - | sudo bash
